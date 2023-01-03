@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>746741175462-q4rtejcdvrc7g46b26pgs7t2gkuisjbo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.746741175462-q4rtejcdvrc7g46b26pgs7t2gkuisjbo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzwvnHquT4g2exE-dKwu3Gz5nBWV-AmK8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>746741175462</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.smoothyApp</string>
+	<key>PROJECT_ID</key>
+	<string>smothee-d87e0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smothee-d87e0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:746741175462:ios:f492f832f411dc534fd067</string>
+</dict>
+</plist>

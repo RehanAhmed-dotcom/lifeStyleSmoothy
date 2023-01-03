@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114424597222",
+    "project_id": "smoothienotifications",
+    "storage_bucket": "smoothienotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114424597222:android:b486c074ee59cc1d10c927",
+        "android_client_info": {
+          "package_name": "com.smoothyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114424597222-29elfmfl52roe9rq1pv3p4idqj6l6jfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJnoxqYvP1Pc3u1QTtUnCD3gRs2nmOLdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114424597222-29elfmfl52roe9rq1pv3p4idqj6l6jfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
