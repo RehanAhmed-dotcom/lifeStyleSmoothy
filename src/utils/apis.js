@@ -4,7 +4,7 @@ import axios from 'axios';
 
 const API = axios.create({
   // baseURL: 'https://intechsol-developer.co/life-style-smoothie',
-  baseURL: 'https://lifestylesmoothie.store',
+  baseURL: 'https://lifestylesmoothie.com',
 });
 
 const userLogin = async payload => {

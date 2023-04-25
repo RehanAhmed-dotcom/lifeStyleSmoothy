@@ -62,7 +62,7 @@ const prodetails = ({route, navigation}) => {
       avail_points: checked,
     };
     // console.log('product quantity', Quantitystorage.qty);
-    fetch('https://lifestylesmoothie.store/api/create-order', {
+    fetch('https://lifestylesmoothie.com/api/create-order', {
       method: 'POST',
       headers: {
         Accept: 'application/json',
@@ -149,7 +149,7 @@ const prodetails = ({route, navigation}) => {
     console.log('payment resp', jsonResponse);
     // setisvisible(false);
     try {
-      fetch('https://lifestylesmoothie.store/api/make-payment', {
+      fetch('https://lifestylesmoothie.com/api/make-payment', {
         method: 'POST',
         body: data,
         headers: {
